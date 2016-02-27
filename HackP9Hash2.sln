@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackP9Hash2", "HackP9Hash2.csproj", "{66FBE391-66D5-4DE4-B4FF-6262E1AA92EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throw", "Throw\Throw.csproj", "{C8B50FE2-3A0D-4D82-9BAF-051032F1FDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FBE391-66D5-4DE4-B4FF-6262E1AA92EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FBE391-66D5-4DE4-B4FF-6262E1AA92EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FBE391-66D5-4DE4-B4FF-6262E1AA92EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FBE391-66D5-4DE4-B4FF-6262E1AA92EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B50FE2-3A0D-4D82-9BAF-051032F1FDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B50FE2-3A0D-4D82-9BAF-051032F1FDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B50FE2-3A0D-4D82-9BAF-051032F1FDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B50FE2-3A0D-4D82-9BAF-051032F1FDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
